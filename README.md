@@ -1,0 +1,1 @@
+This repository contains a simple Python function that demonstrates an uncommon error: a ZeroDivisionError within a conditional statement.  The bug occurs when the input 'x' is 0, resulting in division by zero. The solution includes error handling to gracefully manage this case.
